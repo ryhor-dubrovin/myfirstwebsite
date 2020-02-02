@@ -1,0 +1,57 @@
+a {
+  color:blue;
+  font-size: 18px;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color:#de62b4;
+}
+
+#table_name {
+  color: orange;
+}
+
+#my_line {
+  font-size: 22px;
+}
+
+.Name {
+  color: red;
+}
+
+.date {
+  color: pink;
+}
+
+.divka{
+  color: brown;
+  background-color: grey;
+  border: 1px solid black;
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.img:hover {
+  margin: 100px;
+}
+
+#css3 {
+  background-color: #1BA261;
+  color: #ffffff;
+  padding: 15px;
+  margin: 15px;
+  border: 7px solid #D85346;
+  border-radius: 25px;
+  opacity: 0.75;
+  box-shadow: 10px 10px 10px pink;
+  
+}
+
+body {
+  background-image: url(Screenshot_1.png);
+}
